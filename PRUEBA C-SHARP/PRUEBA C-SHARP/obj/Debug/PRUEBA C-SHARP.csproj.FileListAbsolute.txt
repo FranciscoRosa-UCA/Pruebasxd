@@ -1,0 +1,7 @@
+C:\Users\Franko-PC\source\repos\PRUEBA C-SHARP\PRUEBA C-SHARP\bin\Debug\PRUEBA C-SHARP.exe.config
+C:\Users\Franko-PC\source\repos\PRUEBA C-SHARP\PRUEBA C-SHARP\bin\Debug\PRUEBA C-SHARP.exe
+C:\Users\Franko-PC\source\repos\PRUEBA C-SHARP\PRUEBA C-SHARP\bin\Debug\PRUEBA C-SHARP.pdb
+C:\Users\Franko-PC\source\repos\PRUEBA C-SHARP\PRUEBA C-SHARP\obj\Debug\PRUEBA C-SHARP.csproj.AssemblyReference.cache
+C:\Users\Franko-PC\source\repos\PRUEBA C-SHARP\PRUEBA C-SHARP\obj\Debug\PRUEBA C-SHARP.csproj.CoreCompileInputs.cache
+C:\Users\Franko-PC\source\repos\PRUEBA C-SHARP\PRUEBA C-SHARP\obj\Debug\PRUEBA C-SHARP.exe
+C:\Users\Franko-PC\source\repos\PRUEBA C-SHARP\PRUEBA C-SHARP\obj\Debug\PRUEBA C-SHARP.pdb
